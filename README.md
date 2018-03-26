@@ -1,2 +1,7 @@
 # DDSP
 Decentralized Data Standards Protocol
+
+NOTE: Everything in this set of documents will refer to specific scenarios in the transportation industry involving the use of EDI but this same methodology could be used in any industry.
+
+In transportation, we communicate with our shippers, receivers, and drivers through a never-ending variety of methods but the most promininent and problematic one is EDI. EDI is what I like to call the "Non-standard Standard." I often describe EDI as an agreed upon alphabet where everyone makes up their own words and sentence structure and then have translators in the middle. One of the reasons for this is what I call "Standards Drift". EDI includes a way to create a "mutually defined" qualifier and this is where the problems come from. Where one transportation partner may transmit the pickup time in a G62 segment, another may create a mutually-defined qualifier "PT" and include the time as the reference comment in an N9 segment. Time formats, coordinate formats, even whether or not a decimal value can contain a leading zero or not, are all dictated by the party requesting the data. This drift occurrs because as an industry's needs change, and new data is needed to be passed between parties, the agreed upon standards cannot keep up. How can we allow new data standards be created, and adopted at a speed that keeps up with the needs of the industry? Enter the blockchain.
+
