@@ -1,0 +1,15 @@
+What is data? Any piece of data has 5 attributes: 
+
+Who is recording the data?
+what data is it?
+when was the data collected?
+where was the data collected?
+why the data was collected?
+
+If you add an ownership layer and a layer stating what the intent of the data is I think you can decentralize pretty much any transactional data on a blockchain. It can be hidden or revealed to any party at will by the data's owner. Think of it as the "secret decoder" from the cereal box but at a digital level (you know, the red piece of cellophane that would hide all the red lines revealing the message). All the data points would have their relationships defined by the ownership and intent layers. 
+
+You could essentially give every entity a "pair of goggles" that let them look at the public blockchain and see the data except you can control what their goggles let them see at will. Every single datapoint could be stored separately and, as defined by the relationships defined in the intent layer, one could reconstruct any document created from immutable data with visibility permissioned by either the entities collecting the data or by smart contract.
+
+The "who" in the datagram refers to the device recording the data in the blockchain, not the entity controlling the data. That is all managed through a cascading key structure where ownership of the devices collecting sensor data are cryptographically provable.
+
+If my internet connected toaster is going to tell my internet connected smoke detector to chill out because it burnt the toast, I want to know for a fact that it is actually my toaster and not someone trying to kill me and my family by spoofing the identity of my toaster.
