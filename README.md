@@ -57,7 +57,7 @@ PoW uses a lot of power, but tractors also produce a lot of wasted energy. A 120
 
 **Potential Issues**
 
-**Scaling and Bloat** A blockchain for recording data at this scale could potentially create trillions of datapoints. How to keep the size of the chain manageable.
+A blockchain for recording data at this scale could potentially create trillions of datapoints. How to keep the size of the chain manageable.
 
  Thoughts include:
 - Storing a hash of the data in the chain then sending the data over conventional means (FTP, AS2, etc). The receiving party could hash the same data and check it against the hash of the same data in the blockchain for a match. 
