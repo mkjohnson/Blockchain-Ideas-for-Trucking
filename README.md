@@ -1,7 +1,5 @@
 # DDSAP
-Decentralized Data Standards Adoption Protocol - How to avoid the "EDI-ification" of the blockchain
-
-***Please forgive any spelling or grammatical mistakes! This was a brain dump***
+Decentralized Data Standards Adoption Protocol - How to avoid the "EDI-ification" of the blockchain in transportation.
 
 NOTE: Everything in this set of documents will refer to specific scenarios in the transportation industry involving the use of EDI but this same methodology could be used in any industry. This is a work in progress and any part is subject to change. This set of documents assumes the reader to have a basic understanding of transportation and how a blockchain works.
 
