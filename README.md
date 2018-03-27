@@ -31,8 +31,9 @@ To maintain privacy but still allow for the decentralization of the data and to 
 
 **Ownership Layer**
 
-The ownership layer is what provides both the encryption of the data on the blockchain and the proof of ownership of the data. The ownership layer also will define a sub-set of visibility permissions for the public keys of other entities in the transaction and define what they can view and what they can add. 
-IMPORTANT! An immutable ledger cannot be edited, only added to. Mistakes could be corrected through transactions linked to the mistake that are appropriately signed by all parties involved and a transaction correcting the mistake could be added in a later block.
+The ownership layer is what provides both the encryption of the data on the blockchain and the proof of ownership of the data. The ownership layer also will define a sub-set of visibility permissions for the public keys of other entities in the transaction and define what they can view and what they can add.
+
+*IMPORTANT! An immutable ledger cannot be edited, only added to. Mistakes could be corrected through transactions linked to the mistake that are appropriately signed by all parties involved and a transaction correcting the mistake could be added in a later block.*
 
 **Instruction Layer**
 
