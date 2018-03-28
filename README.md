@@ -45,6 +45,8 @@ Now we're in a situation where the TMS is essentially a wallet. The shipper open
 
 **Securing The Chain**
 
+See [Proof-of-Transport](https://github.com/mkjohnson/DDSAP/blob/master/Proof-of-Transport.md)
+
 Trucks will run miners. The only fair way I can think of to distribute has power and prevent a 51% (or 70%) attack on the network would be to "permission" hash power on the blockchain by having each vehicle's VIN be a validation key of some kind. The hashing power on the network would be controlled by trucking capacity and nothing else. Having a miner in a truck would require a constant internet connection. Most trucks already have this through their on-board telematics or ELD platform (or smart phone even). Because the TMS would signal that a tractor was under active dispatch, and both the shipper and receiver both confirm this, the hashing power of the miner in the tractor begins receiving transactions and running a PoW algorithm. A combination of sensors in the tractor, which have digital identities that are owned by the tractor (which has a digital identity) could provide additional proofs to be able to add a block and achieve consensus.
 
 If every tractor runs a miner and must be under active dispatch, verified by a 3-way signature, for their hashing power to count, the hashing power of the network, and therefore security, is assured. The nodes will be able to check if the tractor solving the block was under dispatch through a mechanism similar to zcash (to be defined later, point is that the nodes can't be gamed) and if so, it can validate blocks. If not, any block solutions submitted from the tractor (linked to the parent node run by the company who owns the tractor) it will simply be ignored (and invalidated so that it can't be replayed).
