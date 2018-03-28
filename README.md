@@ -6,4 +6,6 @@ I have been working on blockchain use-cases in my head for 5 years now. I starte
 
 - [DDSAP](https://github.com/mkjohnson/Blockchain-Ideas-for-Trucking/blob/master/DDSAP.md) - Decentralized Data Standards Adoption Protocol - Preventing the "EDI-ification" of the blockchain
 
+- [Mesh Networkng](https://github.com/mkjohnson/Blockchain-Ideas-for-Trucking/blob/master/Tractor%20Mesh.md) - Using trucks and trailers as a mesh network to bypass cellular data use
+
 I am going to keep expanding and refining these concepts, as well as adding some more use-cases I have in my head. More to come soon!
