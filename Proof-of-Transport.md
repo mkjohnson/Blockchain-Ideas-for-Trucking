@@ -1,4 +1,4 @@
-**Proof of Transport - Acheiving Consensus By Doing Honest Business**
+# Proof of Transport - Acheiving Consensus By Doing Honest Business
 
 Note: This assumes that every tractor has a miner in it. (Expand on this)
 
