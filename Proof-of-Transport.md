@@ -1,5 +1,7 @@
 **Proof of Transport - Acheiving Consensus By Doing Honest Business**
 
+Note: This assumes that every tractor has a miner in it. (Expand on this)
+
 To acheive consensus using a Proof-of-Work model and not have an "arms race" in hash power on the network,I propose a system where block solutions are only valid while the truck is dispatched on a load and moving. This prevents gaming of the system and keeps the hash rate in check. It also scales naturally with the economy: more transport = better economy = more hashing power on the network to handle the load. Brokerages would essentially rent the hashpower of the trucks the carrier owns while hauling a brokered load. 
 
 Every blockchain needs a base token. A chain's base token is normally distributed via block rewards. By assigning a "cost" to every transaction on the network, a malicious actor could not flood the blockchain with useless transactions (spam). These base tokens have more uses that I will expand upon in another document.
