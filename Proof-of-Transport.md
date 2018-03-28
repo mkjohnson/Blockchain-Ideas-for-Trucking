@@ -1,6 +1,6 @@
 # Proof of Transport - Acheiving Consensus By Doing Honest Business
 
-Note: This assumes that every tractor has a miner in it. (Expand on this)
+Note: This assumes that every tractor has a miner in it. (Expand on this later)
 
 To acheive consensus using a Proof-of-Work model and not have an "arms race" in hash power on the network, I propose a system where block solutions are only valid while the truck is dispatched on a load and moving. This prevents gaming of the system and keeps the hash rate in check. It also scales naturally with the economy: more transport = better economy = more hashing power on the network to handle the load. Brokerages would essentially rent the hashpower of the trucks the carrier owns while hauling a brokered load. 
 
