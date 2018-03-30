@@ -1,6 +1,6 @@
 # Securing The Chain
 
-**REFERENCE ONLY** *This isn't meant as a finished idea, just collecting all my random stuff into one repo*
+**REFERENCE ONLY** *This isn't meant as a finished idea, just collecting all my random stuff into one repo - this was actually a conversation, I'll add the line breaks later so it makes more sense*
 
 What if we decentralized the brokerage business itself? Put the TMS in the wallet. The shipper opens their wallet, enters their load as a conditional transaction in a smart contract. The carriers would also have a wallet TMS interface but the functions of the wallet (dispatch, loadboard, bidding, brokers, etc) are all conditional through tokenization (carrier tokens, shipper tokens, broker tokens, insurance tokens, FMCSA tokens, etc) Everyone will run miners, especially in the trucks where they will also provide a telematics gateway as they process blocks. Multi-token smart contracts are built where the shipper's requirements are enforced on the carriers and the carriers (insurance, safety score) on the shipper and receiver (detention) and when the contract is satisfied atomic swaps are used between the different tokenized chains to issue payments. It would be a semi-permissioned main-chain where permission is obtained through hashing power on a pre-set basis (each truck, shipper, receiver, etc has a max hash rate) so there is no gaming the system. 
 
