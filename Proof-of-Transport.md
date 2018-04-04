@@ -1,6 +1,6 @@
 # Proof of Transport - Acheiving Consensus By Doing Honest Business
 
-Note: This assumes that every tractor has a miner in it. (Expand on this later)
+PoW uses a lot of power, but tractors also produce a lot of wasted energy. A 120V DC-to-AC power inverter that is capable of supplying 1500W of power is standard in most tractors. Due to the nature of DC-to-AC conversion, the power is being consumed by the inverter if the 120V outlet has a load on it or not. Because of this, powering miners off of the diesel power plant, AKA engine, while a tractor is under dispatch and going down the road, instead of this PoW scheme wasting energy, it in fact captures normally wasted energy and puts it to use. I believe that if we powered the miners to secure the network with tractors, not only is this PoW scheme carbon-neutral, one could argue it is greener as computing power normally residing in individual data centers could be off-loaded to the tractors that are producing excess energy that is not currently being captured or used.
 
 To acheive consensus using a Proof-of-Work model and not have an "arms race" in hash power on the network, I propose a system where block solutions are only valid while the truck is dispatched on a load and moving. This prevents gaming of the system and keeps the hash rate in check. It also scales naturally with the economy: more transport = better economy = more hashing power on the network to handle the load. Brokerages would essentially rent the hashpower of the trucks the carrier owns while hauling a brokered load. 
 
