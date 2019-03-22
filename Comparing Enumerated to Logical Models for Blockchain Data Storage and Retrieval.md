@@ -14,7 +14,9 @@ Logical - In a general business sense, logistics is the management of the flow o
 - Changes to the set would require updates and versioning
 - Devices and softwares writing to the blockchain would need to know the full set of elements in advance
 
-In an enumerated model, all potential “states” would need to be known in advance by all parties writing to the blockchain. The enumerated set of elements (data) would require maintenance by an official body and as changes in business, technology, and customer demands may neccesitate changes in the enumerated sets. The enumerated model would require little change to existing back-end systems as the data comsumed is already purposed. Pre-determined “states” are recorded to the blockchain and no linking of transactions is required beyond tracing the historical recorded “states.”
+In an enumerated model, all potential “states” would need to be known in advance by all parties writing to the blockchain. The enumerated set of elements (data) would require maintenance by an official body and as changes in business, technology, and customer demands may neccesitate changes in the enumerated sets.
+
+The enumerated model would require little change to existing back-end systems as the data comsumed is already purposed. Pre-determined “states” are recorded to the blockchain and no linking of transactions is required beyond tracing the historical recorded “states.”
 
 # Logical Model
 
