@@ -1,4 +1,4 @@
-Comparing Enumerated to Logistical Models for Blockchain Data Storage and Retrieval
+# Comparing Enumerated to Logistical Models for Blockchain Data Storage and Retrieval
 
 
 Definition of Terms
