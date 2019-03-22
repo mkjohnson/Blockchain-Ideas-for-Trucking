@@ -9,19 +9,19 @@ Logical - In a general business sense, logistics is the management of the flow o
 
 # Enumerated Model
 
-Relies on pre-defined, ordered lists of specific elements
-Elements may or may not be relevant to different industry sectors as all elements must be present in the set
-Changes to the set would require updates and versioning
-Devices and softwares writing to the blockchain would need to know the full set of elements in advance
+- Relies on pre-defined, ordered lists of specific elements
+- Elements may or may not be relevant to different industry sectors as all elements must be present in the set
+- Changes to the set would require updates and versioning
+- Devices and softwares writing to the blockchain would need to know the full set of elements in advance
 
 In an enumerated model, all potential “states” would need to be known in advance by all parties writing to the blockchain. The enumerated set of elements (data) would require maintenance by an official body and as changes in business, technology, and customer demands may neccesitate changes in the enumerated sets. The enumerated model would require little change to existing back-end systems as the data comsumed is already purposed. Pre-determined “states” are recorded to the blockchain and no linking of transactions is required beyond tracing the historical recorded “states.”
 
 # Logical Model
 
-Relies on interpretation of cryptographically-linked data points as they happen
-Meanings of elements are interpreted at the consumer level
-Only the elements that are relevant to the consumer is consumed
-Devices and softwares can write any kind of data to the blockchain and only need to follow a common data format standard
+- Relies on interpretation of cryptographically-linked data points as they happen
+- Meanings of elements are interpreted at the consumer level
+- Only the elements that are relevant to the consumer is consumed
+- Devices and softwares can write any kind of data to the blockchain and only need to follow a common data format standard
 
 In a logical model, any device writing to the blockchain would only need to follow simple set of rules in how the entity records its data in the chain. Changes in business, technology, or customer demands would only affect interested parties (i.e. a truckload carrier does not need to know about changes in air freight or rail) and only the data format would need to be maintained. 
 
